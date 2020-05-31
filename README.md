@@ -13,7 +13,7 @@ Temperature Range D1’s color Below 65F
 65F – 72F 73F – 76F 77F – 83F Above 83F
 Off Red
 Green Blue
-White Felix Pinaib) D2 will show the range of the temperature as follows:
+White b) D2 will show the range of the temperature as follows:
 Temperature Range D2’s color Below 10
 Off
 10-19 20-29 30-39 40-49 50-59 60-69
